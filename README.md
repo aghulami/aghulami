@@ -73,8 +73,8 @@ I’m a results-driven Senior Data Engineer with over 15 years of experience des
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile]  
-- Email: [Your Email]  
+- LinkedIn:   
+- Email: Alex.ghulami@gmail.com  
 
 ---
 
