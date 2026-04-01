@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Alex Ghulami.
+  # 👋 Hi, I'm Alex Ghulami.
 
-🚀 **Senior Data Engineer | 15+ Years of Experience**
+# About me:
+
+🚀 **I am a Big Data Engineer With 15+ Years of Experience**
 
 I’m a results-driven Senior Data Engineer with over 15 years of experience designing, building, and optimizing data solutions across diverse industries. My background spans data engineering, SQL development, and data warehouse ETL development, with a strong focus on delivering scalable, reliable, and high-performance data systems.
 
